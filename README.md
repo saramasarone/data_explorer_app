@@ -4,4 +4,4 @@ Created a very simple web app with `streamlit` to explore data related to articl
 
 The app aims at helping the data analysis by enabling an easier data exploration. 
 ![alt text](https://github.com/saramasarone/data_explorer_app/blob/main/Screenshot%20from%202020-11-29%2020-29-27.png)
-![alt text](
+![alt text](https://github.com/saramasarone/data_explorer_app/blob/main/Screenshot%20from%202020-11-29%2020-35-58.png)
